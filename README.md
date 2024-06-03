@@ -115,4 +115,4 @@ This document provides a detailed explanation of the HR Analytics Dashboard. The
 - *Years with Company*: Analyze how tenure impacts attrition rates.
 
 
-This README file provides a comprehensive understanding of the HR Analytics Dashboard and highlights the capabilities of Power BI. For further customization or detailed analysis, users can refer to specific sections of the dashboard and Power BI documentation.
+This README file provides a comprehensive understanding of the HR Analytics Dashboard and highlights the capabilities of Power BI. 
